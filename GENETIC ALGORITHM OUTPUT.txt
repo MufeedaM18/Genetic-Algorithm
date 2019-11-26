@@ -1,0 +1,680 @@
+Generation: 0	String: $ kp7ym$qGpgbW%.Lbxnr)j	Fitness: 21
+Generation: 1	String: F7l1.Ew5@Cw9m[eeEmizdbS	Fitness: 21
+Generation: 2	String: rWgSk; vrmbVNb1Qo/M:tQJ	Fitness: 21
+Generation: 3	String: F7l1.Ew5@Cw9m[eeEmizdbS	Fitness: 21
+Generation: 4	String: rWgSk; vrmbVNb1QoSM:tQJ	Fitness: 21
+Generation: 5	String: rWgSk; vrmbVNb1Qo/MetQJ	Fitness: 20
+Generation: 6	String: rWgSk; vrmbVNb1Qo/MetQJ	Fitness: 20
+Generation: 7	String: rWgSk; vrmbVNb1Qo/MetQJ	Fitness: 20
+Generation: 8	String: rWgSk; vrmbVNb1Qo/MetQJ	Fitness: 20
+Generation: 9	String: rWgSk; vrmbVNb1Qo/MetQJ	Fitness: 20
+Generation: 10	String: rWgSk; vrmbVNb1Qo/MetQJ	Fitness: 20
+Generation: 11	String: IW Sk; vrmbVNb1Qo/MetQJ	Fitness: 19
+Generation: 12	String: IW Sk; vrmbVNb1Qo/MetQJ	Fitness: 19
+Generation: 13	String: IW Sk; vrmbVNb1Qo/MetQJ	Fitness: 19
+Generation: 14	String: Iv Sk; vrmbVNb1Qo/MetQJ	Fitness: 19
+Generation: 15	String: rWgSv; vrmbVNb1Qo/MetQJ	Fitness: 19
+Generation: 16	String: IW Ske vrmbVNb1Qo/MetQJ	Fitness: 18
+Generation: 17	String: IW Ske vrmbVNb1Qo/MetQJ	Fitness: 18
+Generation: 18	String: IW Ske vrmbVNb1Qo/MetQJ	Fitness: 18
+Generation: 19	String: IW Ske vrmbVNb1Qo/MetQJ	Fitness: 18
+Generation: 20	String: IW Ske vrmbVNb1Qo/MetQJ	Fitness: 18
+Generation: 21	String: IW Ske vrmbVNb1Qo/MetQJ	Fitness: 18
+Generation: 22	String: IW Ske vrmbVNb1Qo/MetQJ	Fitness: 18
+Generation: 23	String: IW Ske vrmbVNb1Qo/MetQJ	Fitness: 18
+Generation: 24	String: IW Ske vrmbVNb1Qo/MetQJ	Fitness: 18
+Generation: 25	String: IW Ske vrmbVtb1Qo/MetQJ	Fitness: 17
+Generation: 26	String: IW Ske vrmbVNbz o/MetQu	Fitness: 17
+Generation: 27	String: IW Ske vrmbVtb1Qo/MetQJ	Fitness: 17
+Generation: 28	String: IW Ske vrmsVtb1Qo/MetkJ	Fitness: 17
+Generation: 29	String: IW Ske vrmbVtb1Qo/MetQJ	Fitness: 17
+Generation: 30	String: IW?Ske vrmbVtb1QH/MeAQJ	Fitness: 17
+Generation: 31	String: IW Ske vrmbVtb1Qo/MetjJ	Fitness: 17
+Generation: 32	String: IW Ske vrmpVtb1Qo/MetQg	Fitness: 16
+Generation: 33	String: IW Ske vrmpVtb1Qo/MetQg	Fitness: 16
+Generation: 34	String: IW Ske vrmpVtb1Qo/MetQg	Fitness: 16
+Generation: 35	String: IW Ske vrmpVtb1Qo/MetQg	Fitness: 16
+Generation: 36	String: IW Ske vrmpVtb1Qo/MetQg	Fitness: 16
+Generation: 37	String: IW Ske vrmpVtb1Qo/MetQg	Fitness: 16
+Generation: 38	String: IW Ske vrmpVtb1Qo/MetQg	Fitness: 16
+Generation: 39	String: IW Ske vrmpVtb1Qo/MetQg	Fitness: 16
+Generation: 40	String: IW Ske vrmpVtb1Qo/MetQg	Fitness: 16
+Generation: 41	String: IW Ske vrmpVtb1Qo/MetLg	Fitness: 16
+Generation: 42	String: IW Ske vrmpVtb1Qo/MetQg	Fitness: 16
+Generation: 43	String: IW Ske FrmpVtb1Qo/MetQg	Fitness: 16
+Generation: 44	String: IW]Ske crmpVtb1Qo/MeHQg	Fitness: 15
+Generation: 45	String: IW]Ske crmpVtb1Qo/MeHQg	Fitness: 15
+Generation: 46	String: IW]Mke crmpVtb1Qo/MeHQg	Fitness: 15
+Generation: 47	String: IW]Mke crmpVtb1Qo/MeHQg	Fitness: 15
+Generation: 48	String: IW]Ske crmpVtb1Qo/MeHQg	Fitness: 15
+Generation: 49	String: IW]Ske crmpVtb1Qo/MeHQg	Fitness: 15
+Generation: 50	String: IW]Ske crmpVtb1Qo/MeHQg	Fitness: 15
+Generation: 51	String: IW]Ske crmpVtb1Qo/MeHQg	Fitness: 15
+Generation: 52	String: IW]Mke crmpVtb1Qo/MeHQg	Fitness: 15
+Generation: 53	String: IW]Ske crmphtb1Qo/MeHQg	Fitness: 15
+Generation: 54	String: IW]Ske crmpVtb1Qo/MeOQg	Fitness: 15
+Generation: 55	String: IW]Ske crmpVtb1Qo/MeOQg	Fitness: 15
+Generation: 56	String: IW]Ske crmpVtb1Qo/MeHQg	Fitness: 15
+Generation: 57	String: IW]Ske crmphtb)Qo/MeHQg	Fitness: 15
+Generation: 58	String: IWTSke crmpVtb1Qo/MeHQg	Fitness: 15
+Generation: 59	String: IW]Ske crmpVtb1Qo/MeHQ?	Fitness: 15
+Generation: 60	String: IW Ske crmphtb1Qo/MeHQg	Fitness: 15
+Generation: 61	String: IWASke crmpVtb1Qo/MeHQg	Fitness: 15
+Generation: 62	String: IWTSke crmpAtb1&o/MeHQg	Fitness: 15
+Generation: 63	String: I7]Ske crmpVt%1Qo/MeHQg	Fitness: 15
+Generation: 64	String: IW4Ske crmpQtb1Qo/MeHQg	Fitness: 15
+Generation: 65	String: IzASke crmpVtb1Qo/MeHQg	Fitness: 15
+Generation: 66	String: I7]Ske crmpVtb1Qo/MeHQg	Fitness: 15
+Generation: 67	String: IW]Ske crmpVtb1Qo/MeHQg	Fitness: 15
+Generation: 68	String: IW]Ske crmphtb)Qo/ueHQE	Fitness: 15
+Generation: 69	String: IzASke crmpVtb1Qo/MeHQg	Fitness: 15
+Generation: 70	String: IWqSke c(mphtb)Qo/ueHQg	Fitness: 15
+Generation: 71	String: IW]Ske crmpVtb1Qo/MeHQN	Fitness: 15
+Generation: 72	String: IW]Ske crmpVtb1Qo/MeHQg	Fitness: 15
+Generation: 73	String: IW]Ske crmpVtb1Qo/MeHcN	Fitness: 14
+Generation: 74	String: IW]Ske crmpVtb1Qo/MeHcN	Fitness: 14
+Generation: 75	String: IW]Ske crmpVtb1Qo/MeHcN	Fitness: 14
+Generation: 76	String: IW]Ske crmpVtb1Qo/MeHcN	Fitness: 14
+Generation: 77	String: IW]Ske crmpVtb1Qo/MeHcN	Fitness: 14
+Generation: 78	String: IW]Sve crmpVtb1QoDMeH}N	Fitness: 14
+Generation: 79	String: IW]Ske crmpVtb1Qo/MeHcN	Fitness: 14
+Generation: 80	String: IW]S%e cZmpVtb1Qo/MeHcN	Fitness: 14
+Generation: 81	String: IW]Ske crmpVtb1Qo/MeHcN	Fitness: 14
+Generation: 82	String: IW]Ske crmpVtb1Qo/MeHcN	Fitness: 14
+Generation: 83	String: IW]Ske crmpQtb1ZV/MeHcN	Fitness: 14
+Generation: 84	String: IW]Ske crmpVtb1Qo/MeHcN	Fitness: 14
+Generation: 85	String: IW]Sve crmpVtb1zo%deH}!	Fitness: 14
+Generation: 86	String: IW]Ske crmpvtb1Qo/MeHcN	Fitness: 14
+Generation: 87	String: IW]Ske cpmpVtbhQo/MeHcN	Fitness: 14
+Generation: 88	String: IW]Ske crmpQtb1ZV/MeHcN	Fitness: 14
+Generation: 89	String: IW]Ske crmpQtb1ZV/MeZcN	Fitness: 14
+Generation: 90	String: IW]Ske crmpvtb1Qo/MeHcN	Fitness: 14
+Generation: 91	String: IW]S"e crmp8tb1Qo/MeHc}	Fitness: 14
+Generation: 92	String: IW]Ske crmpvtb1Qo/MeHcN	Fitness: 14
+Generation: 93	String: IWqSxe crmpVtb1Qo/aencN	Fitness: 13
+Generation: 94	String: IWqSxe crmpVtb1Qo/aencN	Fitness: 13
+Generation: 95	String: IWqSxe crmpVtb1Qo/aencN	Fitness: 13
+Generation: 96	String: IWqSxe crmpVtb1Qo/aencN	Fitness: 13
+Generation: 97	String: IWqSxe crmpVtb1Qo/aencN	Fitness: 13
+Generation: 98	String: IWqSxe crmpVtb1Qo/aencN	Fitness: 13
+Generation: 99	String: IWqSxe crmpVtb1Qo/aencN	Fitness: 13
+Generation: 100	String: IWqSxe crmpVtb1Qo/aencN	Fitness: 13
+Generation: 101	String: IWlSxe crmpVtb1Qo/aencN	Fitness: 12
+Generation: 102	String: IWlSxe crmpVtb1Qo/aencN	Fitness: 12
+Generation: 103	String: IWlSxe crmpVtb1Qo/aencN	Fitness: 12
+Generation: 104	String: IWlSxe crmpxtb1Qo/aencN	Fitness: 12
+Generation: 105	String: IWlSxe crmpVtb1Qo/aencN	Fitness: 12
+Generation: 106	String: IWlSxe crmpxtb1Qo/aencw	Fitness: 12
+Generation: 107	String: IWlSxe crmpVtb1Qo/aencN	Fitness: 12
+Generation: 108	String: IWlSxe c}mpVtb1Qo/aencN	Fitness: 12
+Generation: 109	String: IWlSxe compVtg1Qo/aenc/	Fitness: 11
+Generation: 110	String: IWlSxe compVtg1Qo/aenc/	Fitness: 11
+Generation: 111	String: IWlSxe compVtg1Qo/aenc/	Fitness: 11
+Generation: 112	String: IWlSxe compVtg1QoKaenc/	Fitness: 11
+Generation: 113	String: IWlqxe compVtg1 o/aenc/	Fitness: 10
+Generation: 114	String: IWlqxe compVtg1 o/aenc/	Fitness: 10
+Generation: 115	String: IWlqxe compVtg1 o/aenc/	Fitness: 10
+Generation: 116	String: IWlqxe compVtg1 o/aenc/	Fitness: 10
+Generation: 117	String: IWlqxe compVtg1 o/aenc/	Fitness: 10
+Generation: 118	String: IWlqxe compVtg1 o/aenc/	Fitness: 10
+Generation: 119	String: IWlqxe compVtg1 o/zenc/	Fitness: 10
+Generation: 120	String: IWlqxe compVtg1 o/zenc/	Fitness: 10
+Generation: 121	String: IWlqxe compVtg1 o/zenc/	Fitness: 10
+Generation: 122	String: IWlqxe compVtg1 o/aenc/	Fitness: 10
+Generation: 123	String: IWlqxe compVtg1 oMzenc/	Fitness: 10
+Generation: 124	String: IWlq#e compVtg1 o//enc/	Fitness: 10
+Generation: 125	String: IWlqxe compVtg1 o/zenc/	Fitness: 10
+Generation: 126	String: IWlqFe compHtg1 oPzenc/	Fitness: 10
+Generation: 127	String: IWlqxe compVtgk oFzenc/	Fitness: 10
+Generation: 128	String: IWlqxe compVtg1 o/ encY	Fitness: 10
+Generation: 129	String: IWl?xe compVtg1 Q/aenc/	Fitness: 10
+Generation: 130	String: I l?xe compVtg1 o/aenc/	Fitness: 9
+Generation: 131	String: I l?xe compVtg1 o/aenc/	Fitness: 9
+Generation: 132	String: I l?xe compVtg1 o/aenc/	Fitness: 9
+Generation: 133	String: I l?xe compVtg1 o/aenc/	Fitness: 9
+Generation: 134	String: I l?xe compVtg1 o/aenc/	Fitness: 9
+Generation: 135	String: I l?xe compVtg1 o/aenc/	Fitness: 9
+Generation: 136	String: I l?xe compVtg1 o/aenc/	Fitness: 9
+Generation: 137	String: I l?xe compVtg1 o/aenc/	Fitness: 9
+Generation: 138	String: I l?xe compVtg1 o/aenc/	Fitness: 9
+Generation: 139	String: I l?ve compVtg1 o/uenc/	Fitness: 8
+Generation: 140	String: I l?ve compVtg1 o/uenc/	Fitness: 8
+Generation: 141	String: I l?ve compVtg1 o/uenc/	Fitness: 8
+Generation: 142	String: I l?ve compVtg1 o/uenc/	Fitness: 8
+Generation: 143	String: I l?ve compVtg1 o/uenc/	Fitness: 8
+Generation: 144	String: I l?ve comp-tg1 o/uenc/	Fitness: 8
+Generation: 145	String: I l?ve compVtg1 o/uenc,	Fitness: 8
+Generation: 146	String: I l?ve compVtg1 o/uenc/	Fitness: 8
+Generation: 147	String: I l?ve compVtg1 o/uenc/	Fitness: 8
+Generation: 148	String: I l?ve compVtg1 o/uenc,	Fitness: 8
+Generation: 149	String: I l?ve compVtg1 o/uenc/	Fitness: 8
+Generation: 150	String: I l?ve compVtg1 o/uenc/	Fitness: 8
+Generation: 151	String: I l?ve compVtu$ o/cenc/	Fitness: 8
+Generation: 152	String: I l?ve comp tg1 o/uenc/	Fitness: 8
+Generation: 153	String: I l?ve compVtg1 o/uenc/	Fitness: 8
+Generation: 154	String: I l?ve compVtu$ o/cenc/	Fitness: 8
+Generation: 155	String: I l?ve compVtg1 o4uenc/	Fitness: 8
+Generation: 156	String: I l?ve compVtge o#uenc/	Fitness: 8
+Generation: 157	String: I l?ve compVtgU o/cenc/	Fitness: 8
+Generation: 158	String: I l?ve compVtgr o4uencO	Fitness: 7
+Generation: 159	String: I l?ve compVtgr o4uencO	Fitness: 7
+Generation: 160	String: I l?ve compVtgr o4uencO	Fitness: 7
+Generation: 161	String: I l?ve compVtgr o4uencO	Fitness: 7
+Generation: 162	String: I l?ve compVtgr o4uencO	Fitness: 7
+Generation: 163	String: I l?ve compVtgr l4uencO	Fitness: 7
+Generation: 164	String: I l?ve compVtgr o4uencO	Fitness: 7
+Generation: 165	String: I l?ve compVtgr o4uencO	Fitness: 7
+Generation: 166	String: I l?ve compVtgr o4uencO	Fitness: 7
+Generation: 167	String: I l?ve compVtgr o4uencO	Fitness: 7
+Generation: 168	String: I l?ve compVtgr l4uencO	Fitness: 7
+Generation: 169	String: I l?ve compVtgr l4uencO	Fitness: 7
+Generation: 170	String: I l?ve compVtgr l4uenc{	Fitness: 7
+Generation: 171	String: I l?ve compVtgr o4uencO	Fitness: 7
+Generation: 172	String: I l?ve compVtgr l4uencO	Fitness: 7
+Generation: 173	String: I lVve compVtgr l4uencO	Fitness: 7
+Generation: 174	String: I l?ve compVtgr l4uencO	Fitness: 7
+Generation: 175	String: I l?ve compVtgr l4uencO	Fitness: 7
+Generation: 176	String: I l?ve compOtgr o4uencO	Fitness: 7
+Generation: 177	String: I l?ve compVtgr ofuencO	Fitness: 7
+Generation: 178	String: I l?ve compOtgr o4uencO	Fitness: 7
+Generation: 179	String: I l?ve compVtgr o4uencO	Fitness: 7
+Generation: 180	String: I l?ve compVtgr l4uencO	Fitness: 7
+Generation: 181	String: I l?ve compVtgr o4uence	Fitness: 6
+Generation: 182	String: I l?ve compVtgr o4uence	Fitness: 6
+Generation: 183	String: I l?ve compVtgr o4uence	Fitness: 6
+Generation: 184	String: I l?ve compVtgr o4uence	Fitness: 6
+Generation: 185	String: I l?ve compVtgr f4uence	Fitness: 6
+Generation: 186	String: I l?ve compVtgr f4uence	Fitness: 6
+Generation: 187	String: I l?ve compVtgr f4uence	Fitness: 6
+Generation: 188	String: I l?ve compVtgr o4uence	Fitness: 6
+Generation: 189	String: I l?ve compVtgr f4uence	Fitness: 6
+Generation: 190	String: I l?ve compVtgr o4uence	Fitness: 6
+Generation: 191	String: I l?ve compVtgr o4uence	Fitness: 6
+Generation: 192	String: I l?ve compVtgr o4uence	Fitness: 6
+Generation: 193	String: I l?ve compRtgr o4uence	Fitness: 6
+Generation: 194	String: I l?ve compVtgr f4uence	Fitness: 6
+Generation: 195	String: I l?ve compVtgr o4uence	Fitness: 6
+Generation: 196	String: I l?ve compVtgr f4uence	Fitness: 6
+Generation: 197	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 198	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 199	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 200	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 201	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 202	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 203	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 204	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 205	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 206	String: I l?ve compOter o4uence	Fitness: 5
+Generation: 207	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 208	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 209	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 210	String: I l?ve comp$ter o4uence	Fitness: 5
+Generation: 211	String: I l?ve compRter @4uence	Fitness: 5
+Generation: 212	String: I l?ve compRter oqUence	Fitness: 5
+Generation: 213	String: I l?ve compRter oqUence	Fitness: 5
+Generation: 214	String: I lAve comp1ter o4uence	Fitness: 5
+Generation: 215	String: I l?ve compRter oqUence	Fitness: 5
+Generation: 216	String: I l?ve compRter @4uence	Fitness: 5
+Generation: 217	String: I lAve comp1ter o4uence	Fitness: 5
+Generation: 218	String: I lAve comp1ter o4uence	Fitness: 5
+Generation: 219	String: I l?ve compRter @4uence	Fitness: 5
+Generation: 220	String: I lYve comp1ter o4uence	Fitness: 5
+Generation: 221	String: I l?ve compRter @4uence	Fitness: 5
+Generation: 222	String: I l?ve compRter @Yuence	Fitness: 5
+Generation: 223	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 224	String: I l?ve compRter @4uence	Fitness: 5
+Generation: 225	String: I l?ve compRter oqUence	Fitness: 5
+Generation: 226	String: I l#ve compRter @4gence	Fitness: 5
+Generation: 227	String: I l#ve compRter @4uence	Fitness: 5
+Generation: 228	String: I l?ve compRter @Yuence	Fitness: 5
+Generation: 229	String: I l?ve compRter @Yuence	Fitness: 5
+Generation: 230	String: I l?ve compRter @Yuence	Fitness: 5
+Generation: 231	String: I l?ve compRter @4uence	Fitness: 5
+Generation: 232	String: I lAve comp1ter o4uence	Fitness: 5
+Generation: 233	String: I l#ve compRter @4gence	Fitness: 5
+Generation: 234	String: I l?ve compRter @Yuence	Fitness: 5
+Generation: 235	String: I lyve comprter @4uence	Fitness: 5
+Generation: 236	String: I l?ve compRter @Yuence	Fitness: 5
+Generation: 237	String: I lAve comp1ter o4uence	Fitness: 5
+Generation: 238	String: I lAve comp1ter o4uence	Fitness: 5
+Generation: 239	String: I l?ve compRter @nuence	Fitness: 5
+Generation: 240	String: I lAve comp1ter o4uence	Fitness: 5
+Generation: 241	String: I l?ve compRter @4uence	Fitness: 5
+Generation: 242	String: I lAve comp1ter o4uence	Fitness: 5
+Generation: 243	String: I lAve comp1ter o4uence	Fitness: 5
+Generation: 244	String: I l?ve compRter @4uence	Fitness: 5
+Generation: 245	String: I l?ve compRter =Y_ence	Fitness: 5
+Generation: 246	String: I l?ve comptter d4uence	Fitness: 5
+Generation: 247	String: I l?ve compRter @4uence	Fitness: 5
+Generation: 248	String: I lAve comp1ter o4uence	Fitness: 5
+Generation: 249	String: I lAve comprter o4uence	Fitness: 5
+Generation: 250	String: I l?ve compRter H4uence	Fitness: 5
+Generation: 251	String: I lAve comp1ter o4uence	Fitness: 5
+Generation: 252	String: I lAve comp1ter o4uence	Fitness: 5
+Generation: 253	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 254	String: I lAve comprter o4uence	Fitness: 5
+Generation: 255	String: I lAve comp1ter o4uence	Fitness: 5
+Generation: 256	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 257	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 258	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 259	String: I l=ve compRter o4uence	Fitness: 5
+Generation: 260	String: I lAve comp1ter o4uence	Fitness: 5
+Generation: 261	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 262	String: I lAve comp1ter o4uence	Fitness: 5
+Generation: 263	String: I l?ve compRter o:uence	Fitness: 5
+Generation: 264	String: I lAve comp1ter o4uence	Fitness: 5
+Generation: 265	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 266	String: I lAve comp1ter o:uence	Fitness: 5
+Generation: 267	String: I lAve comp1ter 44rence	Fitness: 5
+Generation: 268	String: I lAve comp1ter 44rence	Fitness: 5
+Generation: 269	String: I lAve comp&ter o4uence	Fitness: 5
+Generation: 270	String: I lNve comp1ter oKuence	Fitness: 5
+Generation: 271	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 272	String: I l?ve compRter =4uence	Fitness: 5
+Generation: 273	String: I lAve comp1ter o:eence	Fitness: 5
+Generation: 274	String: I lAve comp1ter 44rence	Fitness: 5
+Generation: 275	String: I l?ve compRter =huence	Fitness: 5
+Generation: 276	String: I l?ve compRter =huence	Fitness: 5
+Generation: 277	String: I lAve comp1ter o4uence	Fitness: 5
+Generation: 278	String: I lAve comp1ter o4uence	Fitness: 5
+Generation: 279	String: I lAve comp1ter o4uence	Fitness: 5
+Generation: 280	String: I l?ve compRter o4uence	Fitness: 5
+Generation: 281	String: I lAve comp1ter o4uence	Fitness: 5
+Generation: 282	String: I lAve comp1ter 44rence	Fitness: 5
+Generation: 283	String: I love comp1ter 44rence	Fitness: 4
+Generation: 284	String: I love comp1ter 44rence	Fitness: 4
+Generation: 285	String: I love comp1ter 44rence	Fitness: 4
+Generation: 286	String: I love comp1ter 44rence	Fitness: 4
+Generation: 287	String: I love comp1ter 44rence	Fitness: 4
+Generation: 288	String: I love compVter 44rence	Fitness: 4
+Generation: 289	String: I love comp1ter 44rence	Fitness: 4
+Generation: 290	String: I love comp1ter 44rence	Fitness: 4
+Generation: 291	String: I love compVter 44rence	Fitness: 4
+Generation: 292	String: I love compVter s4rence	Fitness: 3
+Generation: 293	String: I love compVter s4rence	Fitness: 3
+Generation: 294	String: I love compVter s4rence	Fitness: 3
+Generation: 295	String: I love compVter s4rence	Fitness: 3
+Generation: 296	String: I love compVter s4rence	Fitness: 3
+Generation: 297	String: I love compVter s4rence	Fitness: 3
+Generation: 298	String: I love compVter s4rence	Fitness: 3
+Generation: 299	String: I love compVter s4rence	Fitness: 3
+Generation: 300	String: I love compVter s4rence	Fitness: 3
+Generation: 301	String: I love compVter s4rence	Fitness: 3
+Generation: 302	String: I love compVter s4rence	Fitness: 3
+Generation: 303	String: I love compVter s4rence	Fitness: 3
+Generation: 304	String: I love compVter s4rence	Fitness: 3
+Generation: 305	String: I love compVter s4rence	Fitness: 3
+Generation: 306	String: I love compVter s4rence	Fitness: 3
+Generation: 307	String: I love complter s4rence	Fitness: 3
+Generation: 308	String: I love compVter s4rence	Fitness: 3
+Generation: 309	String: I love compVter s4rence	Fitness: 3
+Generation: 310	String: I love compVter s4rence	Fitness: 3
+Generation: 311	String: I love compVter s4rence	Fitness: 3
+Generation: 312	String: I love compVter s4rence	Fitness: 3
+Generation: 313	String: I love complter s4rence	Fitness: 3
+Generation: 314	String: I love compVter s4rence	Fitness: 3
+Generation: 315	String: I love complter s4rence	Fitness: 3
+Generation: 316	String: I love compVter s4rence	Fitness: 3
+Generation: 317	String: I love compVter s rence	Fitness: 3
+Generation: 318	String: I love comp!ter s4rence	Fitness: 3
+Generation: 319	String: I love compVter s4rence	Fitness: 3
+Generation: 320	String: I love compVter s4rence	Fitness: 3
+Generation: 321	String: I love compVter s4rence	Fitness: 3
+Generation: 322	String: I love compVter s4rence	Fitness: 3
+Generation: 323	String: I love complter s rence	Fitness: 3
+Generation: 324	String: I love compVter s4rence	Fitness: 3
+Generation: 325	String: I love complter s4xence	Fitness: 3
+Generation: 326	String: I love complter s4rence	Fitness: 3
+Generation: 327	String: I love compVter s4rence	Fitness: 3
+Generation: 328	String: I love complter s4rence	Fitness: 3
+Generation: 329	String: I love complter s rence	Fitness: 3
+Generation: 330	String: I love compVter s4rence	Fitness: 3
+Generation: 331	String: I love compQter s9rence	Fitness: 3
+Generation: 332	String: I love complter s 7ence	Fitness: 3
+Generation: 333	String: I love compQter s9rence	Fitness: 3
+Generation: 334	String: I love computer s rence	Fitness: 2
+Generation: 335	String: I love computer s,rence	Fitness: 2
+Generation: 336	String: I love computer s rence	Fitness: 2
+Generation: 337	String: I love complter scrence	Fitness: 2
+Generation: 338	String: I love computer s,rence	Fitness: 2
+Generation: 339	String: I love computer s,rence	Fitness: 2
+Generation: 340	String: I love computer s,rence	Fitness: 2
+Generation: 341	String: I love computer s rence	Fitness: 2
+Generation: 342	String: I love computer s,rence	Fitness: 2
+Generation: 343	String: I love computer s,rence	Fitness: 2
+Generation: 344	String: I love computer s rence	Fitness: 2
+Generation: 345	String: I love computer s,rence	Fitness: 2
+Generation: 346	String: I love computer s rence	Fitness: 2
+Generation: 347	String: I love computer s,rence	Fitness: 2
+Generation: 348	String: I love computer s rence	Fitness: 2
+Generation: 349	String: I love complter scrence	Fitness: 2
+Generation: 350	String: I love computer s rence	Fitness: 2
+Generation: 351	String: I love computer s,rence	Fitness: 2
+Generation: 352	String: I love computer s rence	Fitness: 2
+Generation: 353	String: I love computer s,rence	Fitness: 2
+Generation: 354	String: I love computer s,rence	Fitness: 2
+Generation: 355	String: I love computer s,rence	Fitness: 2
+Generation: 356	String: I love computer s,rence	Fitness: 2
+Generation: 357	String: I love computer s rence	Fitness: 2
+Generation: 358	String: I love computer s rence	Fitness: 2
+Generation: 359	String: I love computer s,rence	Fitness: 2
+Generation: 360	String: I love computer s rence	Fitness: 2
+Generation: 361	String: I love computer s rence	Fitness: 2
+Generation: 362	String: I love computer s rence	Fitness: 2
+Generation: 363	String: I love computer s rence	Fitness: 2
+Generation: 364	String: I love computer s rence	Fitness: 2
+Generation: 365	String: I love computer s bence	Fitness: 2
+Generation: 366	String: I love computer s,rence	Fitness: 2
+Generation: 367	String: I love computer s,rence	Fitness: 2
+Generation: 368	String: I love computer s rence	Fitness: 2
+Generation: 369	String: I love computer s bence	Fitness: 2
+Generation: 370	String: I love computer s,rence	Fitness: 2
+Generation: 371	String: I love computer s rence	Fitness: 2
+Generation: 372	String: I love computer s,rence	Fitness: 2
+Generation: 373	String: I love computer s rence	Fitness: 2
+Generation: 374	String: I love computer s,rence	Fitness: 2
+Generation: 375	String: I love computer s rence	Fitness: 2
+Generation: 376	String: I love computer s rence	Fitness: 2
+Generation: 377	String: I love computer s,rence	Fitness: 2
+Generation: 378	String: I love computer sOrence	Fitness: 2
+Generation: 379	String: I love computer s,rence	Fitness: 2
+Generation: 380	String: I love computer s,rence	Fitness: 2
+Generation: 381	String: I love computer s,rence	Fitness: 2
+Generation: 382	String: I love computer s,rence	Fitness: 2
+Generation: 383	String: I love computer sOrence	Fitness: 2
+Generation: 384	String: I love computer s,Gence	Fitness: 2
+Generation: 385	String: I love computer s,rence	Fitness: 2
+Generation: 386	String: I love computer sO.ence	Fitness: 2
+Generation: 387	String: I love computer s,Gence	Fitness: 2
+Generation: 388	String: I love computer sOrence	Fitness: 2
+Generation: 389	String: I love computer s .ence	Fitness: 2
+Generation: 390	String: I love computer sOrence	Fitness: 2
+Generation: 391	String: I love computer sOrence	Fitness: 2
+Generation: 392	String: I love computer s,rence	Fitness: 2
+Generation: 393	String: I love computer s .ence	Fitness: 2
+Generation: 394	String: I love computer s,rence	Fitness: 2
+Generation: 395	String: I love computer s, ence	Fitness: 2
+Generation: 396	String: I love computer s,rence	Fitness: 2
+Generation: 397	String: I love computer s .ence	Fitness: 2
+Generation: 398	String: I love computer s,rence	Fitness: 2
+Generation: 399	String: I love computer sOrence	Fitness: 2
+Generation: 400	String: I love computer s,rence	Fitness: 2
+Generation: 401	String: I love computer s:rence	Fitness: 2
+Generation: 402	String: I love computer s,dence	Fitness: 2
+Generation: 403	String: I love computer s:rence	Fitness: 2
+Generation: 404	String: I love computer s .ence	Fitness: 2
+Generation: 405	String: I love computer sOrence	Fitness: 2
+Generation: 406	String: I love computer s,rence	Fitness: 2
+Generation: 407	String: I love computer sz9ence	Fitness: 2
+Generation: 408	String: I love computer sV8ence	Fitness: 2
+Generation: 409	String: I love computer s,rence	Fitness: 2
+Generation: 410	String: I love computer sV8ence	Fitness: 2
+Generation: 411	String: I love computer sOrence	Fitness: 2
+Generation: 412	String: I love computer sV8ence	Fitness: 2
+Generation: 413	String: I love computer s,rence	Fitness: 2
+Generation: 414	String: I love computer s,rence	Fitness: 2
+Generation: 415	String: I love computer s .ence	Fitness: 2
+Generation: 416	String: I love computer sV8ence	Fitness: 2
+Generation: 417	String: I love computer surence	Fitness: 2
+Generation: 418	String: I love computer sOjence	Fitness: 2
+Generation: 419	String: I love computer s qence	Fitness: 2
+Generation: 420	String: I love computer s qence	Fitness: 2
+Generation: 421	String: I love computer surence	Fitness: 2
+Generation: 422	String: I love computer s,rence	Fitness: 2
+Generation: 423	String: I love computer sVyence	Fitness: 2
+Generation: 424	String: I love computer sUrence	Fitness: 2
+Generation: 425	String: I love computer sV8ence	Fitness: 2
+Generation: 426	String: I love computer s qence	Fitness: 2
+Generation: 427	String: I love computer sVyence	Fitness: 2
+Generation: 428	String: I love computer sV8ence	Fitness: 2
+Generation: 429	String: I love computer s qence	Fitness: 2
+Generation: 430	String: I love computer s,rence	Fitness: 2
+Generation: 431	String: I love computer sV8ence	Fitness: 2
+Generation: 432	String: I love computer sV8ence	Fitness: 2
+Generation: 433	String: I love computer sV8ence	Fitness: 2
+Generation: 434	String: I love computer s qence	Fitness: 2
+Generation: 435	String: I love computer sV8ence	Fitness: 2
+Generation: 436	String: I love computer sV8ence	Fitness: 2
+Generation: 437	String: I love computer sV8ence	Fitness: 2
+Generation: 438	String: I love computer sV8ence	Fitness: 2
+Generation: 439	String: I love computer sV8ence	Fitness: 2
+Generation: 440	String: I love computer sV8ence	Fitness: 2
+Generation: 441	String: I love computer sVtence	Fitness: 2
+Generation: 442	String: I love computer s qence	Fitness: 2
+Generation: 443	String: I love computer sV8ence	Fitness: 2
+Generation: 444	String: I love computer sV8ence	Fitness: 2
+Generation: 445	String: I love computer sV8ence	Fitness: 2
+Generation: 446	String: I love computer sr8ence	Fitness: 2
+Generation: 447	String: I love computer sV8ence	Fitness: 2
+Generation: 448	String: I love computer sVtence	Fitness: 2
+Generation: 449	String: I love computer sV8ence	Fitness: 2
+Generation: 450	String: I love computer s qence	Fitness: 2
+Generation: 451	String: I love computer sV8ence	Fitness: 2
+Generation: 452	String: I love computer sVtence	Fitness: 2
+Generation: 453	String: I love computer sr8ence	Fitness: 2
+Generation: 454	String: I love computer s qence	Fitness: 2
+Generation: 455	String: I love computer s qence	Fitness: 2
+Generation: 456	String: I love computer sr8ence	Fitness: 2
+Generation: 457	String: I love computer sr8ence	Fitness: 2
+Generation: 458	String: I love computer s qence	Fitness: 2
+Generation: 459	String: I love computer sr8ence	Fitness: 2
+Generation: 460	String: I love computer sVtence	Fitness: 2
+Generation: 461	String: I love computer sV8ence	Fitness: 2
+Generation: 462	String: I love computer sVtence	Fitness: 2
+Generation: 463	String: I love computer sV8ence	Fitness: 2
+Generation: 464	String: I love computer sVtence	Fitness: 2
+Generation: 465	String: I love computer sV8ence	Fitness: 2
+Generation: 466	String: I love computer sVtence	Fitness: 2
+Generation: 467	String: I love computer s qence	Fitness: 2
+Generation: 468	String: I love computer sV8ence	Fitness: 2
+Generation: 469	String: I love computer st8ence	Fitness: 2
+Generation: 470	String: I love computer sVtence	Fitness: 2
+Generation: 471	String: I love computer sV8ence	Fitness: 2
+Generation: 472	String: I love computer shtence	Fitness: 2
+Generation: 473	String: I love computer sVtence	Fitness: 2
+Generation: 474	String: I love computer sV,ence	Fitness: 2
+Generation: 475	String: I love computer sVtence	Fitness: 2
+Generation: 476	String: I love computer st8ence	Fitness: 2
+Generation: 477	String: I love computer s qence	Fitness: 2
+Generation: 478	String: I love computer s qence	Fitness: 2
+Generation: 479	String: I love computer st8ence	Fitness: 2
+Generation: 480	String: I love computer sV8ence	Fitness: 2
+Generation: 481	String: I love computer sVtence	Fitness: 2
+Generation: 482	String: I love computer sV,ence	Fitness: 2
+Generation: 483	String: I love computer shtence	Fitness: 2
+Generation: 484	String: I love computer s qence	Fitness: 2
+Generation: 485	String: I love computer s qence	Fitness: 2
+Generation: 486	String: I love computer sV8ence	Fitness: 2
+Generation: 487	String: I love computer sV8ence	Fitness: 2
+Generation: 488	String: I love computer sJtence	Fitness: 2
+Generation: 489	String: I love computer sV8ence	Fitness: 2
+Generation: 490	String: I love computer s qence	Fitness: 2
+Generation: 491	String: I love computer sV8ence	Fitness: 2
+Generation: 492	String: I love computer sV8ence	Fitness: 2
+Generation: 493	String: I love computer s qence	Fitness: 2
+Generation: 494	String: I love computer s qence	Fitness: 2
+Generation: 495	String: I love computer sV8ence	Fitness: 2
+Generation: 496	String: I love computer st8ence	Fitness: 2
+Generation: 497	String: I love computer st8ence	Fitness: 2
+Generation: 498	String: I love computer sV8ence	Fitness: 2
+Generation: 499	String: I love computer sV8ence	Fitness: 2
+Generation: 500	String: I love computer sV8ence	Fitness: 2
+Generation: 501	String: I love computer sV8ence	Fitness: 2
+Generation: 502	String: I love computer s qence	Fitness: 2
+Generation: 503	String: I love computer sV8ence	Fitness: 2
+Generation: 504	String: I love computer s qence	Fitness: 2
+Generation: 505	String: I love computer sV8ence	Fitness: 2
+Generation: 506	String: I love computer s qence	Fitness: 2
+Generation: 507	String: I love computer s qence	Fitness: 2
+Generation: 508	String: I love computer s qence	Fitness: 2
+Generation: 509	String: I love computer sVaence	Fitness: 2
+Generation: 510	String: I love computer s qence	Fitness: 2
+Generation: 511	String: I love computer s qence	Fitness: 2
+Generation: 512	String: I love computer s qence	Fitness: 2
+Generation: 513	String: I love computer s qence	Fitness: 2
+Generation: 514	String: I love computer sV-ence	Fitness: 2
+Generation: 515	String: I love computer s qence	Fitness: 2
+Generation: 516	String: I love computer s qence	Fitness: 2
+Generation: 517	String: I love computer s qence	Fitness: 2
+Generation: 518	String: I love computer s qence	Fitness: 2
+Generation: 519	String: I love computer s qence	Fitness: 2
+Generation: 520	String: I love computer s88ence	Fitness: 2
+Generation: 521	String: I love computer s qence	Fitness: 2
+Generation: 522	String: I love computer s-qence	Fitness: 2
+Generation: 523	String: I love computer s qence	Fitness: 2
+Generation: 524	String: I love computer s qence	Fitness: 2
+Generation: 525	String: I love computer s qence	Fitness: 2
+Generation: 526	String: I love computer s Sence	Fitness: 2
+Generation: 527	String: I love computer s qence	Fitness: 2
+Generation: 528	String: I love computer s}qence	Fitness: 2
+Generation: 529	String: I love computer s qence	Fitness: 2
+Generation: 530	String: I love computer s88ence	Fitness: 2
+Generation: 531	String: I love computer s qence	Fitness: 2
+Generation: 532	String: I love computer s qence	Fitness: 2
+Generation: 533	String: I love computer s qence	Fitness: 2
+Generation: 534	String: I love computer s qence	Fitness: 2
+Generation: 535	String: I love computer s qence	Fitness: 2
+Generation: 536	String: I love computer s qence	Fitness: 2
+Generation: 537	String: I love computer sKqence	Fitness: 2
+Generation: 538	String: I love computer s qence	Fitness: 2
+Generation: 539	String: I love computer s qence	Fitness: 2
+Generation: 540	String: I love computer s qence	Fitness: 2
+Generation: 541	String: I love computer s qence	Fitness: 2
+Generation: 542	String: I love computer sKqence	Fitness: 2
+Generation: 543	String: I love computer s qence	Fitness: 2
+Generation: 544	String: I love computer s qence	Fitness: 2
+Generation: 545	String: I love computer s88ence	Fitness: 2
+Generation: 546	String: I love computer s qence	Fitness: 2
+Generation: 547	String: I love computer s qence	Fitness: 2
+Generation: 548	String: I love computer s qence	Fitness: 2
+Generation: 549	String: I love computer s qence	Fitness: 2
+Generation: 550	String: I love computer s88ence	Fitness: 2
+Generation: 551	String: I love computer s qence	Fitness: 2
+Generation: 552	String: I love computer s qence	Fitness: 2
+Generation: 553	String: I love computer s qence	Fitness: 2
+Generation: 554	String: I love computer s qence	Fitness: 2
+Generation: 555	String: I love computer s qence	Fitness: 2
+Generation: 556	String: I love computer syqence	Fitness: 2
+Generation: 557	String: I love computer s qence	Fitness: 2
+Generation: 558	String: I love computer soqence	Fitness: 2
+Generation: 559	String: I love computer s88ence	Fitness: 2
+Generation: 560	String: I love computer s8jence	Fitness: 2
+Generation: 561	String: I love computer sKmence	Fitness: 2
+Generation: 562	String: I love computer sKqence	Fitness: 2
+Generation: 563	String: I love computer soqence	Fitness: 2
+Generation: 564	String: I love computer sKFence	Fitness: 2
+Generation: 565	String: I love computer s88ence	Fitness: 2
+Generation: 566	String: I love computer soqence	Fitness: 2
+Generation: 567	String: I love computer s {ence	Fitness: 2
+Generation: 568	String: I love computer s88ence	Fitness: 2
+Generation: 569	String: I love computer s dence	Fitness: 2
+Generation: 570	String: I love computer sKqence	Fitness: 2
+Generation: 571	String: I love computer s88ence	Fitness: 2
+Generation: 572	String: I love computer s lence	Fitness: 2
+Generation: 573	String: I love computer s Bence	Fitness: 2
+Generation: 574	String: I love computer s8xence	Fitness: 2
+Generation: 575	String: I love computer s Bence	Fitness: 2
+Generation: 576	String: I love computer s Bence	Fitness: 2
+Generation: 577	String: I love computer s8Eence	Fitness: 2
+Generation: 578	String: I love computer s6qence	Fitness: 2
+Generation: 579	String: I love computer s88ence	Fitness: 2
+Generation: 580	String: I love computer s8Eence	Fitness: 2
+Generation: 581	String: I love computer s88ence	Fitness: 2
+Generation: 582	String: I love computer s6qence	Fitness: 2
+Generation: 583	String: I love computer s Bence	Fitness: 2
+Generation: 584	String: I love computer s8Kence	Fitness: 2
+Generation: 585	String: I love computer s Bence	Fitness: 2
+Generation: 586	String: I love computer s Bence	Fitness: 2
+Generation: 587	String: I love computer s Bence	Fitness: 2
+Generation: 588	String: I love computer s6qence	Fitness: 2
+Generation: 589	String: I love computer s88ence	Fitness: 2
+Generation: 590	String: I love computer s6qence	Fitness: 2
+Generation: 591	String: I love computer s6qence	Fitness: 2
+Generation: 592	String: I love computer s88ence	Fitness: 2
+Generation: 593	String: I love computer s6qence	Fitness: 2
+Generation: 594	String: I love computer s6qence	Fitness: 2
+Generation: 595	String: I love computer sixence	Fitness: 2
+Generation: 596	String: I love computer s Bence	Fitness: 2
+Generation: 597	String: I love computer s6qence	Fitness: 2
+Generation: 598	String: I love computer s8xence	Fitness: 2
+Generation: 599	String: I love computer s6qence	Fitness: 2
+Generation: 600	String: I love computer s ience	Fitness: 1
+Generation: 601	String: I love computer s ience	Fitness: 1
+Generation: 602	String: I love computer s ience	Fitness: 1
+Generation: 603	String: I love computer s ience	Fitness: 1
+Generation: 604	String: I love computer s ience	Fitness: 1
+Generation: 605	String: I love computer s ience	Fitness: 1
+Generation: 606	String: I love computer s ience	Fitness: 1
+Generation: 607	String: I love computer s ience	Fitness: 1
+Generation: 608	String: I love computer sFience	Fitness: 1
+Generation: 609	String: I love computer s ience	Fitness: 1
+Generation: 610	String: I love computer s ience	Fitness: 1
+Generation: 611	String: I love computer s ience	Fitness: 1
+Generation: 612	String: I love computer sFience	Fitness: 1
+Generation: 613	String: I love computer s ience	Fitness: 1
+Generation: 614	String: I love computer s ience	Fitness: 1
+Generation: 615	String: I love computer s ience	Fitness: 1
+Generation: 616	String: I love computer s ience	Fitness: 1
+Generation: 617	String: I love computer s ience	Fitness: 1
+Generation: 618	String: I love computer s ience	Fitness: 1
+Generation: 619	String: I love computer s ience	Fitness: 1
+Generation: 620	String: I love computer s ience	Fitness: 1
+Generation: 621	String: I love computer svience	Fitness: 1
+Generation: 622	String: I love computer s ience	Fitness: 1
+Generation: 623	String: I love computer s ience	Fitness: 1
+Generation: 624	String: I love computer s ience	Fitness: 1
+Generation: 625	String: I love computer s ience	Fitness: 1
+Generation: 626	String: I love computer s ience	Fitness: 1
+Generation: 627	String: I love computer s ience	Fitness: 1
+Generation: 628	String: I love computer s ience	Fitness: 1
+Generation: 629	String: I love computer s ience	Fitness: 1
+Generation: 630	String: I love computer s ience	Fitness: 1
+Generation: 631	String: I love computer s ience	Fitness: 1
+Generation: 632	String: I love computer s ience	Fitness: 1
+Generation: 633	String: I love computer s ience	Fitness: 1
+Generation: 634	String: I love computer s ience	Fitness: 1
+Generation: 635	String: I love computer s9ience	Fitness: 1
+Generation: 636	String: I love computer s ience	Fitness: 1
+Generation: 637	String: I love computer s ience	Fitness: 1
+Generation: 638	String: I love computer s ience	Fitness: 1
+Generation: 639	String: I love computer szience	Fitness: 1
+Generation: 640	String: I love computer s9ience	Fitness: 1
+Generation: 641	String: I love computer s ience	Fitness: 1
+Generation: 642	String: I love computer s ience	Fitness: 1
+Generation: 643	String: I love computer s9ience	Fitness: 1
+Generation: 644	String: I love computer s ience	Fitness: 1
+Generation: 645	String: I love computer s ience	Fitness: 1
+Generation: 646	String: I love computer szience	Fitness: 1
+Generation: 647	String: I love computer s@ience	Fitness: 1
+Generation: 648	String: I love computer s ience	Fitness: 1
+Generation: 649	String: I love computer s ience	Fitness: 1
+Generation: 650	String: I love computer s@ience	Fitness: 1
+Generation: 651	String: I love computer s ience	Fitness: 1
+Generation: 652	String: I love computer s ience	Fitness: 1
+Generation: 653	String: I love computer s ience	Fitness: 1
+Generation: 654	String: I love computer s@ience	Fitness: 1
+Generation: 655	String: I love computer s]ience	Fitness: 1
+Generation: 656	String: I love computer s ience	Fitness: 1
+Generation: 657	String: I love computer s]ience	Fitness: 1
+Generation: 658	String: I love computer s ience	Fitness: 1
+Generation: 659	String: I love computer s@ience	Fitness: 1
+Generation: 660	String: I love computer s ience	Fitness: 1
+Generation: 661	String: I love computer s ience	Fitness: 1
+Generation: 662	String: I love computer s ience	Fitness: 1
+Generation: 663	String: I love computer sWience	Fitness: 1
+Generation: 664	String: I love computer s9ience	Fitness: 1
+Generation: 665	String: I love computer s9ience	Fitness: 1
+Generation: 666	String: I love computer s ience	Fitness: 1
+Generation: 667	String: I love computer s]ience	Fitness: 1
+Generation: 668	String: I love computer sWience	Fitness: 1
+Generation: 669	String: I love computer s ience	Fitness: 1
+Generation: 670	String: I love computer s ience	Fitness: 1
+Generation: 671	String: I love computer s ience	Fitness: 1
+Generation: 672	String: I love computer s ience	Fitness: 1
+Generation: 673	String: I love computer sJience	Fitness: 1
+Generation: 674	String: I love computer s ience	Fitness: 1
+Generation: 675	String: I love computer sJience	Fitness: 1
+Generation: 676	String: I love computer sgience	Fitness: 1
+Generation: 677	String: I love computer s ience	Fitness: 1
+Generation: 678	String: I love computer science	Fitness: 0
+
